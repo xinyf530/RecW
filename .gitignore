@@ -1,0 +1,27 @@
+# 论文 PDF（约 6.4 MB 二进制文件，暂不入库）
+lit/
+src/
+
+# --- 以后需要时把下面对应行前面的 # 去掉 ---
+# Python
+# __pycache__/
+# *.py[cod]
+# .venv/
+# venv/
+# .ipynb_checkpoints/
+
+# 密钥（研究代码最容易踩的坑，写代码时记得打开）
+# .env
+# *.env
+# config.local.*
+
+# 编辑器 / 系统
+# .vscode/
+# .idea/
+# .DS_Store
+# Thumbs.db
+
+# 跑实验的产物
+# *.log
+# runs/
+# out/
